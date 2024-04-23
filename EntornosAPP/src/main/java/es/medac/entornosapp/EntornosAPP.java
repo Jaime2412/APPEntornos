@@ -5,7 +5,7 @@
 package es.medac.entornosapp;
 
 /**
- *
+ * @version 0.2
  * @author Usuario
  */
 public class EntornosAPP {
